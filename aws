@@ -8,3 +8,5 @@ systemctl start jenkins
 systemctl status jenkins
 
 yum install git -y
+
+hello
